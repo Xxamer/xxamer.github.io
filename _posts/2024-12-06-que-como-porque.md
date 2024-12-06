@@ -1,5 +1,5 @@
 ---
-title: El por qué y el cómo
+title: El porqué y el cómo
 description: >-
  Mi primer post oficial en dónde cuento cómo monté el blog, porqué y qué quiero transmitir
 pin: true
