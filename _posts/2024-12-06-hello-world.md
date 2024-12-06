@@ -3,7 +3,7 @@ title: Hola mundo!
 description: >-
  Hello world
  
-author: Christian
+author: christian
 date: 2024-12-06 15:10:00 +0800
 categories: [ Introduction]
 tags: [hello world]

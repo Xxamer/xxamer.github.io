@@ -16,7 +16,7 @@ timezone:
 
 title: ChrisGr Dev # the main title
 
-tagline: Un espacio donde desarrollo y creatividad se encuentran.  Comparte conmigo las ideas, proyectos y soluciones de las movidas que se me van ocurriendo # it will display as the subtitle
+tagline: Aquí pondré las movidas que estoy haciendo # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -138,9 +138,9 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: true # The option for PWA feature (installable)
+  enabled: false # The option for PWA feature (installable)
   cache:
-    enabled: true # The option for PWA offline cache
+    enabled: false # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
     # Usually its value is the `baseurl` of another website that
     # shares the same domain name as the current website.
